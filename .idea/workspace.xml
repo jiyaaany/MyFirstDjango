@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2795c5bf-073d-4f7f-be47-b108d9c1a23e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lovely/templates/lovely/first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lovely/templates/lovely/second.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lovely/templates/lovely/third.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lovely/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lovely/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lovely/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/templates/posts/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/templates/posts/main.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
